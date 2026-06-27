@@ -1,0 +1,22 @@
+fever,cough,fatigue,headache,body_pain,vomiting,sore_throat,breathing_difficulty,dizziness,stomach_pain,cold,joint_pain,disease
+1,1,1,1,1,0,1,0,0,0,1,0,Flu
+1,1,1,1,0,0,1,0,0,0,1,0,Flu
+1,1,1,0,1,0,1,0,0,0,1,0,Flu
+1,0,1,1,1,1,0,0,1,1,0,1,Dengue
+1,0,1,1,1,1,0,0,1,0,0,1,Dengue
+1,0,1,1,1,0,0,0,1,0,0,1,Dengue
+1,1,1,1,1,0,0,1,0,0,0,0,Covid
+1,1,1,1,0,0,1,1,0,0,0,0,Covid
+1,1,1,0,1,0,1,1,0,0,0,0,Covid
+0,0,1,0,0,1,0,0,1,1,0,0,Food Poisoning
+0,0,1,1,0,1,0,0,1,1,0,0,Food Poisoning
+0,0,1,0,0,1,0,0,0,1,0,0,Food Poisoning
+1,0,1,1,1,0,0,0,0,0,0,1,Malaria
+1,0,1,1,1,0,0,0,1,0,0,1,Malaria
+1,0,1,0,1,0,0,0,1,0,0,1,Malaria
+0,1,0,0,0,0,1,0,0,0,1,0,Common Cold
+0,1,0,1,0,0,1,0,0,0,1,0,Common Cold
+0,1,1,0,0,0,1,0,0,0,1,0,Common Cold
+1,0,1,1,0,1,0,0,1,1,0,0,Typhoid
+1,0,1,1,1,1,0,0,1,1,0,0,Typhoid
+1,0,1,0,1,1,0,0,1,1,0,0,Typhoid
